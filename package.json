@@ -1,0 +1,10 @@
+{
+  "name": "bangits-platform-types",
+  "version": "1.0.0",
+  "description": "Types for platform",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ]
+}
